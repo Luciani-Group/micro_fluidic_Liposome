@@ -11,17 +11,17 @@ To ensure reproducibility and ease of setup, the project was developed using Pyt
 The project uses the following Python packages and libraries (Complete environment is available upon request on Anaconda):
 
 ### Data manipulation and analysis
-pandas (v. 2.2.2)
-numpy (v. 1.26.4)
+pandas (v. 2.2.2),
+numpy (v. 1.26.4),
 rdkit (v. 2024.03.2)
 
 ### Machine learning models and tools
-xgboost (v. 2.0.3)
+xgboost (v. 2.0.3),
 scikit-learn (v. 1.4.2)
 
 ### Visualization
-plotly (v. 5.22.0)
-seaborn (v. 0.12.2)
+plotly (v. 5.22.0),
+seaborn (v. 0.12.2),
 shap (0.45.1)
 
 ## License
