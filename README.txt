@@ -4,7 +4,7 @@ Drug delivery systems efficiently and safely administer therapeutic agents to sp
 
 ## Environment
 
-To ensure reproducibility and ease of setup, the project was developed using Python 3.11.9 within an Anaconda 24.3.0 environment.
+To ensure reproducibility and ease of setup, the project was developed using Python 3.11.9 within an Anaconda 24.3.0 (https://www.anaconda.com/) environment.
 
 ## Dependencies
 
