@@ -10,7 +10,7 @@ To ensure reproducibility and ease of setup, the project was developed using Pyt
 
 ## Dependencies
 
-The project uses the following Python packages and libraries (Complete environment is available upon request on Anaconda):
+The project uses the following Python packages and libraries:
 
 ### Data manipulation and analysis
 pandas (v. 2.2.2),
